@@ -139,6 +139,7 @@ media/
 # dependencies
 /.pnp
 .pnp.js
+*/node_modules
 
 .DS_Store
 .thumbs.db
