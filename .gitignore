@@ -137,10 +137,12 @@ media/
 # FRONTEND
 
 # dependencies
-/node_modules
 /.pnp
 .pnp.js
 
+.DS_Store
+.thumbs.db
+node_modules
 # testing
 
 
