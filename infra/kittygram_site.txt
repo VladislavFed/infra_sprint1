@@ -1,4 +1,5 @@
 IP: 158.160.24.4;
 name_taski: https://vlad.zapto.org;
 name_kittygram: https://vladkittygram.hopto.org;
+login: admin;
 password: admin;
